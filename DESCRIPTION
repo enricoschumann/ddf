@@ -1,0 +1,13 @@
+Package: ddf
+Type: Package
+Title: Compare Data Frames
+Version: 0.0.2
+Date: 2023-12-21
+Maintainer: Enrico Schumann <es@enricoschumann.net>
+Authors@R: person("Enrico", "Schumann",
+                  role  = c("aut", "cre"),
+                  email = "es@enricoschumann.net",
+                  comment = c(ORCID = "0000-0001-7601-6576"))
+Description: Compare data frames.
+License: GPL-3
+
