@@ -1,3 +1,7 @@
 v0.0.1  (2023-12-21; not yet released)
 
+  o Initial version, providing a single function 'ddf' that
+    compares data-frames by rows, and reports added, removed
+    and changed rows.
+
   o ....
