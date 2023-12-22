@@ -2,7 +2,7 @@ Package: ddf
 Type: Package
 Title: Compare Data Frames
 Version: 0.0.1
-Date: 2023-12-21
+Date: 2023-12-22
 Maintainer: Enrico Schumann <es@enricoschumann.net>
 Authors@R: person("Enrico", "Schumann",
                   role  = c("aut", "cre"),

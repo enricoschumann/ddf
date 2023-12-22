@@ -80,7 +80,12 @@ function(new, old = NULL,
         added   = new[!key.new %in% key.old, ],
         removed = old[!key.old %in% key.new, ],
         changed = ans.changes)
+
     attr(ans, "new.key") <- key.new
     attr(ans, "old.key") <- key.old
+
+    attr(ans, "new.changed.rows") <- seq_len(nrow(new))[m > 0][changes]
+    attr(ans, "old.changed.rows") <- seq_len(nrow(old))[m    ][changes]
+
     ans
 }
