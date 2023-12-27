@@ -4,4 +4,8 @@ v0.0.1  (2023-12-27; not yet released)
     data-frames and reports added, removed and changed rows.
     The package is small and without dependencies.
 
+  o Initial version, providing a single function 'ddf' that
+    compares data-frames by rows, and reports added, removed
+    and changed rows.
+
   o ....
