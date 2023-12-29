@@ -2,7 +2,7 @@ Package: ddf
 Type: Package
 Title: Compare Data Frames
 Version: 0.0.1
-Date: 2023-12-27
+Date: 2023-12-29
 Maintainer: Enrico Schumann <es@enricoschumann.net>
 Authors@R: person("Enrico", "Schumann",
                   role  = c("aut", "cre"),
@@ -12,4 +12,4 @@ Description: Compare data frames.
 License: GPL-3
 URL: http://enricoschumann.net/ddf/ ,
      https://git.sr.ht/~enricoschumann/ddf
-
+Suggests: tinytest

@@ -1,6 +1,11 @@
+2023-12-29  Enrico Schumann  <es@enricoschumann.net>
+
+	* DESCRIPTION (Version): 0.0.1
+	(Suggests): add 'tinytest'
+
 2023-12-27  Enrico Schumann  <es@enricoschumann.net>
 
-	* DESCRIPTION (URL): add URLs
+        * DESCRIPTION (URL): add URLs
 
 2023-12-22  Enrico Schumann  <es@enricoschumann.net>
 

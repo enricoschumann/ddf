@@ -1,11 +1,6 @@
-v0.0.1  (2023-12-27; not yet released)
-
-  o A single function 'ddf' is provided; it takes two
-    data-frames and reports added, removed and changed rows.
-    The package is small and without dependencies.
+v0.0.1  (2023-12-29)
 
   o Initial version, providing a single function 'ddf' that
     compares data-frames by rows, and reports added, removed
-    and changed rows.
-
-  o ....
+    and changed rows. The package is small and without
+    dependencies.

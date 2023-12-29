@@ -1,11 +1,8 @@
 ddf <-
 function(new, old = NULL,
          by = NULL,
-         ignore.case = FALSE,
-         ignore.ws = FALSE,
+         verbose = FALSE,
          ignore.headers = FALSE,
-         ignore = NULL,
-         ignore.rows = NULL,
          ignore.columns = NULL,
          only.columns = NULL,
          ... ) {
