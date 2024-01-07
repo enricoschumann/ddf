@@ -2,13 +2,14 @@ Package: ddf
 Type: Package
 Title: Compare Data Frames
 Version: 0.0.1
-Date: 2023-12-29
+Date: 2024-01-07
 Maintainer: Enrico Schumann <es@enricoschumann.net>
 Authors@R: person("Enrico", "Schumann",
                   role  = c("aut", "cre"),
                   email = "es@enricoschumann.net",
                   comment = c(ORCID = "0000-0001-7601-6576"))
-Description: Compare data frames.
+Description: Compares the rows of two data frames and
+     reports add, removed and changed rows.
 License: GPL-3
 URL: http://enricoschumann.net/ddf/ ,
      https://git.sr.ht/~enricoschumann/ddf
